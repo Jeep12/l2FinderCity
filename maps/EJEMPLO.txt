@@ -1,0 +1,16 @@
+# Archivo de ejemplo para probar el conversor
+
+Este es un archivo de ejemplo. Para probar el programa:
+
+1. Renombra este archivo a `22_22.unr` (o cualquier nombre que termine en .unr)
+2. Ponlo en la carpeta `maps`
+3. Ejecuta `run.bat`
+4. Verás que se genera `22_22.l2j` en la carpeta `output`
+
+## Archivos de mapa reales
+
+Los archivos `.unr` reales de Lineage II están en:
+- `system/` del cliente L2
+- Ejemplo: `system/22_22.unr`
+
+Copia esos archivos a la carpeta `maps` para procesarlos.
