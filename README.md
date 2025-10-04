@@ -26,7 +26,6 @@ chmod +x compile-findercity.sh
 ./compile-findercity.sh
 ```
 
-**O simplemente ejecuta `run.bat`** - compila automáticamente si es necesario.
 
 <img width="420" height="566" alt="image" src="https://github.com/user-attachments/assets/3228507e-60e6-4cce-85dc-da090a34aa65" />
 
